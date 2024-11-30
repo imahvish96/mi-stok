@@ -80,7 +80,6 @@ const Sidebar = () => {
           isSidebarCollapsed ? 'px-5' : 'px-8'
         }`}
       >
-        <div>logo</div>
         <Image
           src="https://s3-inven-manag.s3.ap-south-1.amazonaws.com/logo.png"
           alt="edstock-logo"
